@@ -17,10 +17,11 @@ Task-01 is a simple calculator application that performs basic arithmetic operat
 - Enter the second number.
 - Choose an operation: +, -, *, /.
 - View the result.
-  <img width="400" height="400" alt="Screenshot 2026-02-14 at 6 50 50 in the evening" src="https://github.com/user-attachments/assets/9a3021bd-d728-4e53-a66f-89dba5d63cb6" />
+
+<img width="400" height="400" alt="Screenshot 2026-02-14 at 6 50 50 in the evening" src="https://github.com/user-attachments/assets/9a3021bd-d728-4e53-a66f-89dba5d63cb6" />
 
 ---
 
 # Author
 - Name:Pruonh Kimliya
-- Email: Pruonh Kimliya
+- Email: kimliyapruonh@gmail.com
